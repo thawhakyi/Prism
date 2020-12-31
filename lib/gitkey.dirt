@@ -1,0 +1,5 @@
+const String token = '74578aa5a8b3bc87debd17f681c149e98313b969';
+const String gitUserName = 'thawhakyi';
+const String repoName = 'prism';
+const String apiKey = 'TTEveTBDwLeNHbTgvOkPdKgDncGxxzUk';
+String pexelApiKey = '563492ad6f917000010000014f212c3af0c94d0eb17e99eb5b595efc';// TODO Implement this library.
